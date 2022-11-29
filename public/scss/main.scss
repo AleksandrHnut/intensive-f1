@@ -20,4 +20,21 @@
 	--color-action-primary: #f1e846;
 	--color-form-border: #c7ccd4;
 	--color-divider: #ebf0f5;
+
+	/* Shadows */
+	--shadow-inset-1: inset 0 1px 2px 1px rgb(38 39 40 / 20%);
+	--shadow-1: 0 0 1px rgb(38 39 40 / 10%), 0 1px 2px rgb(38 39 40 / 10%);
+	--shadow-2: 0 3px 8px rgb(38 39 40 / 3%), 0 1.5px 3px rgb(38 39 40 / 4%),
+		0 0.5px 1px rgb(38 39 40 / 10%);
+	--shadow-3: 0 6px 16px rgb(38 39 40 / 4%), 0 3px 5px rgb(38 39 40 / 4%),
+		0 1.5px 2px rgb(38 39 40 / 3.08%), 0 0.5px 0.8px rgb(38 39 40 / 2.09%);
+	--shadow-4: 0 4px 16px rgb(38 39 40 / 6%), 0 3px 5px rgb(38 39 40 / 5%),
+		0 1.5px 3.5px rgb(38 39 40 / 5%), 0 0.8px 2px rgb(38 39 40 / 4%),
+		0 0.3px 1px rgb(38 39 40 / 3%);
+	--shadow-5: 0 8px 20px rgb(38 39 40 / 10%), 0 4px 9px rgb(38 39 40 / 8%),
+		0 2px 5px rgb(38 39 40 / 5.96%), 0 1px 3px rgb(38 39 40 / 5%),
+		0 0.5985px 1.5px rgb(38 39 40 / 4.04%), 0 0.249px 1px rgb(38 39 40 / 3%);
+	--shadow-6: 0 -1px 1px rgb(0 0 0 / 5%), 0 2px 2px rgb(0 0 0 / 5%),
+		0 4px 4px rgb(0 0 0 / 5%), 0 8px 8px rgb(0 0 0 / 5%),
+		0 16px 16px rgb(0 0 0 / 5%), 0 32px 32px rgb(0 0 0 / 5%);
 }
