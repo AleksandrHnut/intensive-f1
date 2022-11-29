@@ -1,5 +1,7 @@
+@charset "UTF-8";
+
 :root {
-	/* colors */
+	/* Палитра цветов */
 	--color-text-main-strong: #000;
 	--color-text-main-weak: #fff;
 	--color-text-secondary: #7d7e80;
@@ -21,7 +23,7 @@
 	--color-form-border: #c7ccd4;
 	--color-divider: #ebf0f5;
 
-	/* Shadows */
+	/* Тени блоков */
 	--shadow-inset-1: inset 0 1px 2px 1px rgb(38 39 40 / 20%);
 	--shadow-1: 0 0 1px rgb(38 39 40 / 10%), 0 1px 2px rgb(38 39 40 / 10%);
 	--shadow-2: 0 3px 8px rgb(38 39 40 / 3%), 0 1.5px 3px rgb(38 39 40 / 4%),
@@ -38,3 +40,5 @@
 		0 4px 4px rgb(0 0 0 / 5%), 0 8px 8px rgb(0 0 0 / 5%),
 		0 16px 16px rgb(0 0 0 / 5%), 0 32px 32px rgb(0 0 0 / 5%);
 }
+
+/*# sourceMappingURL=main.css.map */
