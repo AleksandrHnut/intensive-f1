@@ -1,1 +1,4 @@
 .gitkeep
+*.woff
+*.woff2
+*.css.map
